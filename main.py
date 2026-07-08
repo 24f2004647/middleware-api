@@ -7,7 +7,7 @@ import uuid
 
 EMAIL = "24f2004647@ds.study.iitm.ac.in"
 
-ALLOWED_ORIGIN = "https://app-dihp9x.example.com"
+ALLOWED_ORIGIN = "https://.*"
 RATE_LIMIT = 13
 WINDOW_SECONDS = 10
 
